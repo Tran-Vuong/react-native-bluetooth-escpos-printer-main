@@ -15,7 +15,7 @@ Any questions or bug please raise a issue.
 Install via NPM [Check In NPM](https://www.npmjs.com/package/react-native-bluetooth-escpos-printer)
  install via github
 ```bash
-yarn add react-native-bluetooth-escpos-printer@https://github.com/Tran-Vuong/react-native-bluetooth-escpos-printer-main.git
+yarn add react-native-bluetooth-escpos-printer@https://github.com/Tran-Vuong/react-native-bluetooth-escpos-printer.git
 ```
 
 ### Step2 ###
